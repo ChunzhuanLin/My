@@ -1,0 +1,21 @@
+
+body{
+
+        background-color: aqua;
+        background-image: url("D:\MyImage.jpg");
+        background-position: right top;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+    }
+
+div{
+    padding:10px;
+
+    height:200px;
+
+    width:200px;
+
+    border:2px soild bule;
+
+    }
